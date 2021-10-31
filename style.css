@@ -1,0 +1,13 @@
+body
+{
+   
+    text-align: center;
+}
+.text-capitalize:hover
+{
+    background-color: red;
+}
+.btn-success:hover
+{
+    background-color: red;
+}
